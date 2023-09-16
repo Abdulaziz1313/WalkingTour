@@ -1,0 +1,11 @@
+4#Pinacoteca di Brera#45.472242#9.188407#2,9
+7#Cimitero Monumentale#45.487879#9.177631#4,6,8,9
+10#Pirelli HangarBicocca#45.52225#9.219935#6
+8#Naviglio#45.541636#9.467178#0,2
+1#Galleria Vittorio Emanuele II#45.46391#9.19064#4,6
+9#Poldi-Pezzoli Museum#45.468741#9.191389#0
+2#Museo Bagatti Valsecchi#45.46948#9.194979#3,7,8
+6#Parco Sempione#45.473042#9.176971#3,4,5
+0#Duomo Cathedral#45.463692#9.19049#1,3,5,6,9
+5#Teatro alla Scala#45.467605#9.189119#2,3,6,7
+3#Castello Sforzesco#45.470273#9.178132#1,2,5,7
